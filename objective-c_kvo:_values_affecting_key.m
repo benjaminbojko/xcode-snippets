@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: keyPathsForValuesAffecting
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: 3A823634-A3B2-43D3-926A-CCBA25DBA340
+// IDECodeSnippetIdentifier: D6354BB9-768B-4649-9AA9-499AF18C6B6E
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 + (NSSet *)keyPathsForValuesAffecting<#DependentKey#>
 {
     return [NSSet setWithObjects:@"<#keyPath#>", nil];
