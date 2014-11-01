@@ -1,17 +1,16 @@
-// Objective-C -init Method
-// Initialize an object.
+// Objective C Custom Init Method
+// 
 //
 // IDECodeSnippetCompletionPrefix: init
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: B25FEFF4-89B8-4266-85F4-1DC0CB2B6769
+// IDECodeSnippetIdentifier: FF2B46FE-AF01-466F-B81E-965C7EC3651D
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
-- (instancetype)init
-{
+// IDECodeSnippetVersion: 2
+- (id)init {
     self = [super init];
-    if (self) {
-        <#statements#>
+    if( self ){
+        <#initializations#>
     }
     return self;
 }
