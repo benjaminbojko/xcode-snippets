@@ -1,6 +1,7 @@
 // Log Vector3
 // 
 //
+// IDECodeSnippetCompletionPrefix: log_vector3
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 07C535D5-AB16-4AE3-BF05-2DA814D82E64
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
