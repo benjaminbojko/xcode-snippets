@@ -1,5 +1,5 @@
 // Log Vector3
-// 
+// NSLog template for printing a GLKVector3 instance
 //
 // IDECodeSnippetCompletionPrefix: log_vector3
 // IDECodeSnippetCompletionScopes: [CodeBlock]
