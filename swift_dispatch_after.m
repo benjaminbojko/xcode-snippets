@@ -1,5 +1,5 @@
 // Swift Dispatch After
-// 
+// Dispatch after time for Swift
 //
 // IDECodeSnippetCompletionPrefix: dispatch_after
 // IDECodeSnippetCompletionScopes: [CodeBlock]
