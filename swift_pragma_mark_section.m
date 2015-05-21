@@ -1,5 +1,5 @@
 // Swift Pragma Mark Section
-// 
+// Section title using pragma mark for Swift
 //
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 28719CA1-1ABA-41DC-B32E-64AEE7D39482
