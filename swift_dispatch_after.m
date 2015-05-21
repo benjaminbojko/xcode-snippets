@@ -1,6 +1,7 @@
 // Swift Dispatch After
 // 
 //
+// IDECodeSnippetCompletionPrefix: dispatch_after
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 749C203E-E93D-408B-92D1-C302C3862183
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
