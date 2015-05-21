@@ -1,4 +1,4 @@
-// Swift Pragma Mark Section
+// Swift Pragma Mark Titl
 // Section title using pragma mark for Swift
 //
 // IDECodeSnippetCompletionPrefix: mark_title
@@ -8,4 +8,4 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 // ------------------------------
-	// MARK: - <# Section Title #>
+// MARK: - <# Section Title #>
