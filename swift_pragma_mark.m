@@ -8,4 +8,4 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 // ------------------------------
-	// MARK: - <# Section Title #>
+	// MARK: <# Title #>
